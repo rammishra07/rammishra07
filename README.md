@@ -33,16 +33,26 @@ Git • Docker • Maven • IntelliJ • VS Code
 
 ---
 
-## 🚀 Featured Project
+## 🚀 Featured Projects
 
 ### 🔥 Real-Time Network Analyzer System
 
-- Multi-threaded packet processing system using Java sockets  
-- Built scalable backend with Spring Boot & PostgreSQL  
-- Real-time traffic monitoring with React dashboard  
-- Implemented anomaly detection for suspicious packets  
+* Multi-threaded packet processing system using Java sockets
+* Built RESTful backend with Spring Boot and PostgreSQL
+* Developed a real-time traffic monitoring dashboard with React
+* Implemented anomaly detection for suspicious network packets
 
 🔗 [View Project](https://github.com/rammishra07/Network-Analyzer)
+
+### 💳 Distributed Payment & Ledger Engine
+
+* Built an event-driven payment backend using Java 17, Spring Boot, PostgreSQL, Redis, and Kafka
+* Implemented double-entry ledger accounting to maintain transaction balance consistency
+* Prevented concurrent transaction conflicts using pessimistic row locking
+* Implemented Redis-based idempotency and the Transactional Outbox Pattern for reliable transaction processing
+
+🔗 [View Project](https://github.com/rammishra07/Payment-Ledger-Engine)
+
 
 ---
 

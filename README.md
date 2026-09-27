@@ -1,10 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ram Mishra</h1>
 <h3 align="center">Backend-Focused Software Engineer | Real-Time Systems Enthusiast</h3>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?size=22&duration=3000&color=36BCF7&center=true&vCenter=true&width=500&lines=Java+%7C+Spring+Boot+%7C+React;Building+Real-Time+Systems;Backend+Engineering+%7C+System+Design" />
-</p>
-
 
 ## 🚀 What I'm Doing
 
